@@ -105,10 +105,10 @@ ul {
     font-weight: lighter;
 }
 .leftText {
-    width: 40%;
+    width: 50%;
 }
 .rightText {
-    width: 40%;
+    width: 50%;
 }
 
 .imageCards {
@@ -117,11 +117,19 @@ ul {
     gap: 15px;
 }
 .leftImage {
-    width: 40%;
+    width: 50%;
+}
+
+.leftImage img {
+    width: 310px;
 }
 
 .rightImage {
-    width: 40%;
+    width: 50%;
+}
+.rightImage img {
+    width: 620px;
+    height: 395px;
 }
 
 footer {
